@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fygj", "fygj\fygj.csproj", "{DB94D405-FD38-408B-B95E-01C078E81230}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverlayForm", "OverlayForm\OverlayForm.csproj", "{95962D5C-32CC-4455-A712-B95A929A7D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB94D405-FD38-408B-B95E-01C078E81230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB94D405-FD38-408B-B95E-01C078E81230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB94D405-FD38-408B-B95E-01C078E81230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB94D405-FD38-408B-B95E-01C078E81230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95962D5C-32CC-4455-A712-B95A929A7D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95962D5C-32CC-4455-A712-B95A929A7D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95962D5C-32CC-4455-A712-B95A929A7D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95962D5C-32CC-4455-A712-B95A929A7D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA00BB9-068D-43BD-BCEB-4223ACD2C57C}
+	EndGlobalSection
+EndGlobal

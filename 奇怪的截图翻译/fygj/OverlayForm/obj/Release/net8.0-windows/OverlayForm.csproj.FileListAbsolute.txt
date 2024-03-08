@@ -1,0 +1,13 @@
+D:\App\jt\OverlayForm\bin\Release\net8.0-windows\OverlayForm.deps.json
+D:\App\jt\OverlayForm\bin\Release\net8.0-windows\OverlayForm.dll
+D:\App\jt\OverlayForm\bin\Release\net8.0-windows\OverlayForm.pdb
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.OverlayFormWindow.resources
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.csproj.GenerateResource.cache
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.AssemblyInfoInputs.cache
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.AssemblyInfo.cs
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.csproj.CoreCompileInputs.cache
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.dll
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\refint\OverlayForm.dll
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\OverlayForm.pdb
+D:\App\jt\OverlayForm\obj\Release\net8.0-windows\ref\OverlayForm.dll

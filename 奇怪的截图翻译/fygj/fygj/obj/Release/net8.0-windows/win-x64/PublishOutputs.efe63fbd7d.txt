@@ -1,0 +1,13 @@
+D:\截图\fygj.pdb
+D:\截图\x86\leptonica-1.82.0.dll
+D:\截图\x86\tesseract50.dll
+D:\截图\x64\leptonica-1.82.0.dll
+D:\截图\x64\tesseract50.dll
+D:\截图\fygj.dll.config
+D:\截图\D3DCompiler_47_cor3.dll
+D:\截图\PenImc_cor3.dll
+D:\截图\PresentationNative_cor3.dll
+D:\截图\vcruntime140_cor3.dll
+D:\截图\wpfgfx_cor3.dll
+D:\截图\OverlayForm.pdb
+D:\截图\fygj.exe

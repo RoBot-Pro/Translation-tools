@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94D405-FD38-408B-B95E-01C078E81230}|fygj\\fygj.csproj|c:\\users\\gpt-5\\desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB94D405-FD38-408B-B95E-01C078E81230}|fygj\\fygj.csproj|solutionrelative:fygj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94D405-FD38-408B-B95E-01C078E81230}|fygj\\fygj.csproj|C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94D405-FD38-408B-B95E-01C078E81230}|fygj\\fygj.csproj|solutionrelative:fygj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB94D405-FD38-408B-B95E-01C078E81230}|fygj\\fygj.csproj|C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB94D405-FD38-408B-B95E-01C078E81230}|fygj\\fygj.csproj|solutionrelative:fygj\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95962D5C-32CC-4455-A712-B95A929A7D0F}|OverlayForm\\OverlayForm.csproj|C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\overlayform\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95962D5C-32CC-4455-A712-B95A929A7D0F}|OverlayForm\\OverlayForm.csproj|solutionrelative:overlayform\\overlayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95962D5C-32CC-4455-A712-B95A929A7D0F}|OverlayForm\\OverlayForm.csproj|C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\overlayform\\translationresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95962D5C-32CC-4455-A712-B95A929A7D0F}|OverlayForm\\OverlayForm.csproj|solutionrelative:overlayform\\translationresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\Form1.cs",
+              "RelativeDocumentMoniker": "fygj\\Form1.cs",
+              "ToolTip": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "fygj\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T11:04:50.59Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "fygj\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\Form1.Designer.cs",
+              "RelativeToolTip": "fygj\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:26:38.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\Form1.cs",
+              "RelativeDocumentMoniker": "fygj\\Form1.cs",
+              "ToolTip": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\fygj\\Form1.cs",
+              "RelativeToolTip": "fygj\\Form1.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwCsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:32:31.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TranslationResultForm.cs",
+              "DocumentMoniker": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\OverlayForm\\TranslationResultForm.cs",
+              "RelativeDocumentMoniker": "OverlayForm\\TranslationResultForm.cs",
+              "ToolTip": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\OverlayForm\\TranslationResultForm.cs",
+              "RelativeToolTip": "OverlayForm\\TranslationResultForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:17:24.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OverlayForm.cs",
+              "DocumentMoniker": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\OverlayForm\\OverlayForm.cs",
+              "RelativeDocumentMoniker": "OverlayForm\\OverlayForm.cs",
+              "ToolTip": "C:\\Users\\GPT-5\\Desktop\\\u5947\u602A\u7684\u622A\u56FE\u7FFB\u8BD1\\fygj\\OverlayForm\\OverlayForm.cs",
+              "RelativeToolTip": "OverlayForm\\OverlayForm.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwEQBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:32:11.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
